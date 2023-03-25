@@ -1,13 +1,14 @@
 # WiiU-VC-MSX-ROM-BIOS-extractor from msx.pkg
-rom 2 type slot1 and mega.rom
-run ROMextract-MegaROM.bat or ROMextract-SLOT1.bat
-extracted into ROMextracted/GAME.rom
-test it fmsx emulator
+## How to use
+rom 2 type slot1 and mega.rom<br />
+run ROMextract-MegaROM.bat or ROMextract-SLOT1.bat<br />
+extracted into ROMextracted/GAME.rom<br />
+test it fmsx emulator<br />
 
-bios dump
-run BIOS DUMP.bat
-extracted into BIOS folder
-・FMBIOS.ROM
-・MSX2PEXT.ROM
-・MSX2P.ROM
-only
+bios dump<br />
+run BIOS DUMP.bat<br />
+extracted into BIOS folder<br />
+・FMBIOS.ROM<br />
+・MSX2PEXT.ROM<br />
+・MSX2P.ROM<br />
+only<br />
