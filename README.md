@@ -1,5 +1,8 @@
 # WiiU-VC-MSX-ROM-BIOS-extractor from msx.pkg
 ## How to use
+install devkit pro
+https://github.com/devkitPro/installer/releases
+
 Dump and Decrypt msx vc from WiiU<br />
 get msx.pkg from content/msx folder<br />
 
